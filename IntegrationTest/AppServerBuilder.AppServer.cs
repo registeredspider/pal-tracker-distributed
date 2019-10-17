@@ -62,6 +62,7 @@ namespace IntegrationTest
 
             public void Stop()
             {
+                
                 _process.Kill();
             }
 
