@@ -10,3 +10,4 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: http://registration-pal-INITIALS-renjith-ashish.cfapps.io/
   services:
   - tracker-allocations-database
+  - tracker-service-registry
